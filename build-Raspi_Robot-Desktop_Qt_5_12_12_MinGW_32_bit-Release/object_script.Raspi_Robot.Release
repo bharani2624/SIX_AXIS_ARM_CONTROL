@@ -1,0 +1,14 @@
+release/main.o
+release/sender.o
+release/SliderPanel_qml.o
+release/CameraWindow_qml.o
+release/Notification_qml.o
+release/ControlPannel_qml.o
+release/TeachPanel_qml.o
+release/ControlPanel1_qml.o
+release/NotificationManager_qml.o
+release/DashboardGaugeStyle_qml.o
+release/GuideWindow_qml.o
+release/main_qml.o
+release/qmlcache_loader.o
+release/moc_sender.o

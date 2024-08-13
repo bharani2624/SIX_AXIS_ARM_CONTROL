@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CameraWindow.qml</file>
+        <file>ControlPannel.qml</file>
+        <file>GuideWindow.qml</file>
+        <file>Notification.qml</file>
+        <file>NotificationManager.qml</file>
+        <file>TeachPanel.qml</file>
+        <file>DashboardGaugeStyle.qml</file>
+        <file>SliderPanel.qml</file>
+        <file>ControlPanel1.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+debug/main.o
+debug/sender.o
+debug/SliderPanel_qml.o
+debug/CameraWindow_qml.o
+debug/Notification_qml.o
+debug/ControlPannel_qml.o
+debug/TeachPanel_qml.o
+debug/ControlPanel1_qml.o
+debug/NotificationManager_qml.o
+debug/DashboardGaugeStyle_qml.o
+debug/GuideWindow_qml.o
+debug/main_qml.o
+debug/qmlcache_loader.o
+debug/moc_sender.o
